@@ -1,4 +1,4 @@
-file=calculator1
+file=calculator
 all:
 	flex $(file).l
 	bison -d $(file).y
