@@ -1,5 +1,5 @@
 %{
-#include "calculator1.tab.h"
+#include "calculator.tab.h"
 %}
 
 %%
