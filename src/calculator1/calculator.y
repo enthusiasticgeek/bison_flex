@@ -12,6 +12,8 @@ void yyerror(const char* s);
 
 %%
 
+/* without BODMAS */
+
 input: /* empty */
      | input line
      ;
