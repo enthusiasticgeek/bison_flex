@@ -2,3 +2,7 @@ Simple Calculator with +,-,/,* (with BODMAS and floating point numbers and advan
 This is the complete calculator in it's advanced form.
 This also supports = assignment
 e.g., a = (3+4.5+sin(pi/3))
+
+# Usage:
+
+./calculator < input.txt
