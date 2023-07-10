@@ -32,6 +32,8 @@ Another example usage for `calculator3`:
 
 `./calculator < input.txt`
 
+`calculator1` src is the simplest form of calculator and we add more functionality step-by-step through `calculator10` src.
+
 In most cases, the examples follow the standard Bison and Flex binary usage. 
 
 Readme.md file will be updated periodically to accurately reflect the usage.
