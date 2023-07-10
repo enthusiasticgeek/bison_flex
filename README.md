@@ -1,6 +1,6 @@
 # Bison and Flex examples
 
-Bison (parser generator)[parser] and Flex (fast lexical analyzer generator)[scanner]  examples.
+Bison (parser generator)[tokens parser] and Flex (fast lexical analyzer generator)[tokens scanner]  examples.
 
 # Resources
 
